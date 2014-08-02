@@ -1,0 +1,1 @@
+this repo contains very simple practical example of using go
